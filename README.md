@@ -4,4 +4,4 @@ JS fork of project https://github.com/Accorpa/Arabic-Converter-From-and-To-Arabi
 
 Tweaked to also allow conversion from presentation forms A, which includes Urdu, and ligatures, which were not working.
 
-Characters not in the existing conversion list will need to be added.
+Characters to be converted but not in the arrays will need to be added.
