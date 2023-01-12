@@ -1,6 +1,7 @@
-Arabic-Converter-From-and-To-Arabic-Presentation-Forms-B
+Arabic-Converter-From-and-To-Arabic-Presentation-Forms
 ========================================================
 JS fork of project https://github.com/Accorpa/Arabic-Converter-From-and-To-Arabic-Presentation-Forms-B
 
-It is intended for simple convertation from Unicode Arabic to Unicode Arabic Presentation form B and back
+Tweaked to also allow conversion from presentation forms A, which includes Urdu, and ligatures, which were not working.
 
+Characters not in the existing conversion list will need to be added.
